@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/static/v1?label=&message=Marco%20Antonio%20Giacomini&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-giacomini/)](https://www.linkedin.com/in/marco-giacomini/) 
-[![Gmail Badge](https://img.shields.io/static/v1?label=&message=marco.contato@gmail.com&color=red&logo=Gmail&logoColor=white&link=mailto:marco.contato@gmail.com)](mailto:marco.contato@gmail.com)
+[![Gmail Badge](https://img.shields.io/static/v1?label=&message=marcog.contato@gmail.com&color=red&logo=Gmail&logoColor=white&link=mailto:marcog.contato@gmail.com)](mailto:marcog.contato@gmail.com)
 
 [pt-BR]
 
